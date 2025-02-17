@@ -1,0 +1,13 @@
+numpy
+pandas
+jupyter
+ipykernel
+streamlit
+matplotlib
+seaborn
+flask
+memory-profiler
+scikit-learn
+streamlit-option-menu
+streamlit-chatbox
+langchain
